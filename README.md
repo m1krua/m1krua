@@ -4,7 +4,7 @@ Currently learning and practicing modern technologies to improve my skills.
 
 ---
 
-## 🌐 Frontend
+##  Frontend
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -12,7 +12,7 @@ Currently learning and practicing modern technologies to improve my skills.
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-## ## 🛠️ Tech Stack
+## ##  Tech Stack
 <p>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -21,21 +21,21 @@ Currently learning and practicing modern technologies to improve my skills.
 
 ---
 
-## 📊 GitHub Stats  
+##  GitHub Stats  
 
 ![Mia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mikrua&show_icons=true&theme=radical)  
 
-### 🔥 Most Used Languages  
+###  Most Used Languages  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikrua&layout=compact&theme=radical)
 
 ---
 
-## 🎯 About Me
+##  About Me
 -  Currently learning frontend and building first projects  
 -  Interested in design and UI/UX  
 -  Always curious to try new things and grow in IT  
 
 ---
 
-✨ Thanks for visiting my profile!
+ Thanks for visiting my profile!
